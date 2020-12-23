@@ -1,0 +1,7 @@
+<select [(ngModel)] = "PinSelected" (ngModelChange) = 'onPincodeSelected($event)'>
+  <option *ngFor = "let pin of observeData" [ngValue] = "pin">
+    {{ pin.pincode }}
+  </option>
+</select>
+
+<p> {{ modifiedText }}</p>

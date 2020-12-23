@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "pincode": 400708,
+            "village": "Airoli",
+            "taluka": "Thane",
+            "district": "Thane",
+            "state": "Maharashtra"
+        },
+        {
+            "pincode": 416007,
+            "village": "Kaamba",
+            "taluka": "Kalyan",
+            "district": "Thane",
+            "state": "Maharashtra"
+        },
+        {
+            "pincode": 421102,
+            "village": "Atali",
+            "taluka": "Kalyan",
+            "district": "Thane",
+            "state": "Maharashtra"
+        },
+        {
+            "pincode": 421501,
+            "village": "Ambarnath",
+            "taluka": "Ambarnath",
+            "district": "Thane",
+            "state": "Maharashtra"
+        },
+        {
+            "pincode": 421503,
+            "village": "Ambeshiv",
+            "taluka": "Ambarnath",
+            "district": "Thane",
+            "state": "Maharashtra"
+        }
+    ]
+}
